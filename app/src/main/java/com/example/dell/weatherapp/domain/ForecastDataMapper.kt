@@ -5,7 +5,7 @@ import com.example.dell.weatherapp.ForecastResult
 import com.example.dell.weatherapp.domain.model.ForecastList
 import java.text.DateFormat
 import java.util.*
-import com.example.dell.weatherapp.Forecast as ModelForecast
+import com.example.dell.weatherapp.domain.model.ForecastBean as ModelForecast
 
 /**
  * @author : Dell
